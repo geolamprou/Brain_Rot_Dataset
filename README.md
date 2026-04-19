@@ -4,15 +4,13 @@
 
 ## Brain Rot Words Dataset 
 
-At least one time in our lives we have been stuck on one single word which blowed our mind and after that we continiously pronounced it every moment. 
-With the latest phrase: "Six - Seven" i hade an idea to gather in one single dataset all the brain rot words from 2000 until today. 
-So i asked Claude to try to make me a corresponding dataset.
+At least once in our lives, we’ve gotten stuck on a word that’s been burning in our minds, and after that, we keep repeating it over and over again. With the last phrase: “Six - Seven,” I got the idea to compile all the words that have stuck in our minds from 2000 to the present into a single dataset. So I asked Claude to try to create a corresponding dataset for me.
 
-After the following data processing, I used Tableau to make some basic visualizations and now i publish both the dataset (in Greek & in English) and the visualizations. 
-Especially i publish 3 datasets. 
+After processing the data, I used Tableau to create some basic visualizations, and now I’m publishing both the dataset (in Greek and English) and the visualizations. Specifically, I’m publishing 3 datasets.
 
-The first 2 dataset contain: the Word, the	Meaning, the Year of Appearance, the Country of Origin, the Platform where each word spread and the Frequency.
-I also provide a third dataset wich contains the sources that Claude based on to extract data.
+The first two datasets contain: the word, the meaning, the year of appearance, the country of origin, the platform where each word was shared, and the frequency. I am also providing a third dataset containing the sources Claude used to extract the data.
+
+Translated with DeepL.com (free version)
 
 The refered visualizations are provided below: 
 
